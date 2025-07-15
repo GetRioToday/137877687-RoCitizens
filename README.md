@@ -8,7 +8,7 @@ A collection of scripts for the experience "RoCitizens" on Roblox.com
 **Experience ID**: 137877687
 
 # Available Scripts:
-- Trivia Dumper.lua: Scrapes the questions & answers from the rotating classrooms. Questions & answers take a approximately 25-30 seconds to rotate, with 200+ questions. Recommended to leave running overnight to capture full results.
+- Trivia Dumper.lua: Scrapes the questions & answers from the rotating classrooms for developmental purposes. Not recommended for production uses. Questions & answers take a approximately 25-30 seconds to rotate, with 200+ questions. Recommended to leave running overnight to capture full results.
 
 ⚠️ Globals/utility functions are not provided in any file in this repository.
 
